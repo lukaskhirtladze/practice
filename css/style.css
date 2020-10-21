@@ -1,0 +1,7 @@
+.postwrap{display: flex; }
+.post{width: 570px; background-color: grey; margin-left: 100px; display: flex;  }
+.poto1{width: 100px; height: 100px; margin-right: 20px; order: 1 }
+.poto2{width: 100px; height: 100px; margin-left: 20px; margin-right: 10px; order: 2}
+.p2{order: 1}
+.mother{background-color: grey; margin-left: 100px;}
+.h4{padding-left: 20px}
